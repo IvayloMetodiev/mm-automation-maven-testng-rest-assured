@@ -1,0 +1,12 @@
+<suite name="Test-method Suite" parallel="methods" thread-count="2" >
+    <TestNG.test name="Test-method TestNG.test" group-by-instances="true">
+        <classes>
+            <class
+                    name="TestNG.test"
+            />
+            <class>
+                name="test.WebTests.SkilloSiteTests >
+            </class>
+        </classes>
+    </TestNG.test>
+</suite>
