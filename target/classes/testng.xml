@@ -5,7 +5,7 @@
                     name="TestNG.test"
             />
             <class>
-                name="test.WebTests.SkilloSiteTests >
+                name="test.RestAssuredTests.RestAssuredTestsSkillo
             </class>
         </classes>
     </TestNG.test>
